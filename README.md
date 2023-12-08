@@ -9,7 +9,7 @@ VCQS is a system designed for the efficient retrieval of images from large datab
 - Relevance feedback mechanism for refined search results.
 
 ## Installation
-1. Clone the repository: `git clone [repository-url]`.
+1. Clone the repository: `git clone https://github.com/Akhil-Harsha/Visual-Content-Query-System.git
 2. Navigate to the project directory.
 3. Open the solution in Visual Studio and build the project.
 
